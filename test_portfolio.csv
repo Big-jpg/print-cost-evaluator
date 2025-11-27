@@ -1,0 +1,4 @@
+model_name,reference_url,filament_grams,print_time_hours,plate_count,sale_price
+MH-6 Little Bird,https://makerworld.com/model-a,83.0,5.4,1,40.0
+Large Dragon,https://makerworld.com/model-b,376.0,16.9,1,60.0
+Multi-plate Print,,150.0,8.2,3,45.0
